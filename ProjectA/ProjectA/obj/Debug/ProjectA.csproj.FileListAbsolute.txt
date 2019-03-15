@@ -1,0 +1,14 @@
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.cache
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.Evaluation.resources
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.Project.resources
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.Advisor.resources
+C:\Users\Aneesa Amjad\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.Main.resources
